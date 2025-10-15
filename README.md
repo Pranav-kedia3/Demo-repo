@@ -5,4 +5,6 @@
 
 # sub-header
 
-Git functions are finally working!!!
+Some text
+
+#Git branching
